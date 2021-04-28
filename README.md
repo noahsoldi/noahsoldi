@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah Soldi</h1>
 <h3 align="center">A frontend student developer from Brazil</h3>
 
-- 🌱 I’m currently learning **frameworks**
+- 🌱 I’m currently learning **javascript**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/noahsoldi](https://vercel.com/noahsoldi)
 
