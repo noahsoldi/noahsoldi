@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noah Soldi</h1>
-<h3 align="center">A frontend student developer from Brazil</h3>
+<h3 align="center">A front-end student developer from Brazil</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **pHp**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/noahsoldi](https://vercel.com/noahsoldi)
 
-- 💬 Ask me about **html, css and js**
+- 💬 Ask me about **html, css and php**
 
 - 📫 How to reach me **noahsoldi@gmail.com**
 
