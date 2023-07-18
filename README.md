@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noah Soldi</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [my website](https://noahsoldi.com.br/)
-
-- 🌱 I’m currently learning **JavaScript and VanillaJS**
-
-- 👯 I’m looking to collaborate on **websites**
+- 🌱 I’m currently learning **JavaScript and Typescript**
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://noahsoldi.com.br/](https://noahsoldi.com.br/)
-
 - 💬 Ask me about **Frontend beginner tips**
-
-- 📫 How to reach me **ola@noahsoldi.com.br**
-
-- 📄 Know about my experiences [https://noahsoldi.com.br/](https://noahsoldi.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
