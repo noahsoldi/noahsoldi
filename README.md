@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah Soldi</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript and Typescript**
+- 🌱 I’m currently learning **Nodejs, javascript and react**
 
 - 🤝 I’m looking for help with **React**
 
